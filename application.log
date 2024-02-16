@@ -1,0 +1,68 @@
+2024-01-23 14:52:46 INFO  LoginPage:25 - Start execution
+  2024-01-23 14:52:55 INFO  LoginPage:40 - logo test successful
+  2024-01-23 14:52:55 INFO  LoginPage:25 - Start execution
+  2024-01-23 14:53:06 INFO  LoginPage:25 - Start execution
+  2024-01-23 14:53:28 INFO  LoginPage:46 - login successful
+  2024-01-23 14:57:41 INFO  LoginPage:25 - Start execution
+  2024-01-23 14:57:49 INFO  LoginPage:40 - logo test successful
+  2024-01-23 14:57:49 INFO  LoginPage:25 - Start execution
+  2024-01-23 14:58:07 INFO  LoginPage:25 - Start execution
+  2024-01-23 14:58:16 INFO  LoginPage:46 - login successful
+  2024-01-23 15:22:15 INFO  LoginPage:29 - Start execution
+  2024-01-23 15:22:29 INFO  LoginPage:44 - logo test successful
+  2024-01-23 15:22:29 INFO  LoginPage:29 - Start execution
+  2024-01-23 15:34:27 INFO  LoginPage:29 - Start execution
+  2024-01-23 15:34:33 INFO  LoginPage:44 - logo test successful
+  2024-01-23 15:34:33 INFO  LoginPage:29 - Start execution
+  2024-01-23 15:36:45 INFO  LoginPage:29 - Start execution
+  2024-01-23 15:36:53 INFO  LoginPage:44 - logo test successful
+  2024-01-23 15:36:53 INFO  LoginPage:29 - Start execution
+  2024-01-23 16:34:33 INFO  LoginPage:29 - Start execution
+  2024-01-23 16:34:55 INFO  LoginPage:44 - logo test successful
+  2024-01-23 16:45:19 INFO  LoginPage:29 - Start execution
+  2024-01-23 16:45:30 INFO  LoginPage:57 - Login successful with mobileNumber: 9967891679
+  2024-01-23 16:45:30 INFO  LoginPage:29 - Start execution
+  2024-01-23 16:45:41 INFO  LoginPage:57 - Login successful with mobileNumber: 9507485745
+  2024-01-23 17:05:47 INFO  LoginPage:29 - Start execution
+  2024-01-23 17:06:05 INFO  LoginPage:44 - logo test successful
+  2024-01-23 17:06:05 INFO  LoginPage:29 - Start execution
+  2024-01-23 17:06:12 INFO  LoginPage:29 - Start execution
+  2024-01-23 17:06:19 INFO  LoginPage:57 - Login successful with mobileNumber: 9967891679
+  2024-01-23 17:06:19 INFO  LoginPage:29 - Start execution
+  2024-01-23 17:06:38 INFO  LoginPage:57 - Login successful with mobileNumber: 9507485745
+  2024-01-23 17:16:14 INFO  LoginPage:25 - Start execution
+  2024-01-23 17:30:29 INFO  LoginPage:29 - Start execution
+  2024-01-23 17:46:36 INFO  LoginPage:29 - Start execution
+  2024-01-23 17:47:57 INFO  LoginPage:29 - Start execution
+  2024-01-23 17:48:06 INFO  LoginPage:44 - logo test successful
+  2024-01-23 17:48:06 INFO  LoginPage:29 - Start execution
+  2024-01-23 17:48:12 INFO  LoginPage:29 - Start execution
+  2024-01-23 17:48:21 INFO  LoginPage:57 - Login successful with mobileNumber: 9967891679
+  2024-01-23 17:48:21 INFO  LoginPage:29 - Start execution
+  2024-01-23 17:48:35 INFO  LoginPage:57 - Login successful with mobileNumber: 9507485745
+  2024-01-25 11:56:57 INFO  LoginPage:26 - Start execution
+  2024-01-25 11:57:19 INFO  LoginPage:41 - logo test successful
+  2024-01-25 11:57:19 INFO  LoginPage:26 - Start execution
+  2024-01-25 11:57:30 INFO  LoginPage:26 - Start execution
+  2024-01-25 11:57:45 INFO  LoginPage:47 - login successful
+  2024-01-25 12:08:05 INFO  LoginPage:26 - Start execution
+  2024-01-25 12:08:10 INFO  LoginPage:41 - logo test successful
+  2024-01-25 12:08:10 INFO  LoginPage:26 - Start execution
+  2024-01-25 12:08:14 INFO  LoginPage:26 - Start execution
+  2024-01-25 12:08:18 INFO  LoginPage:47 - login successful
+  2024-01-25 12:19:11 INFO  LoginPage:26 - Start execution
+  2024-01-25 15:20:24 INFO  LoginPage:29 - Start execution
+  2024-01-25 15:20:45 INFO  LoginPage:44 - logo test successful
+  2024-01-25 15:20:46 INFO  LoginPage:29 - Start execution
+  2024-01-25 15:21:12 INFO  LoginPage:29 - Start execution
+  2024-01-25 15:21:28 INFO  LoginPage:57 - Login successful with mobileNumber: 9967891679
+  2024-01-25 15:21:28 INFO  LoginPage:29 - Start execution
+  2024-01-25 15:21:36 INFO  LoginPage:57 - Login successful with mobileNumber: 9507485745
+  2024-01-25 15:55:12 INFO  LoginPage:29 - Start execution
+  2024-01-25 15:55:17 INFO  LoginPage:44 - logo test successful
+  2024-01-25 15:55:18 INFO  LoginPage:29 - Start execution
+  2024-01-25 15:55:23 INFO  LoginPage:29 - Start execution
+  2024-01-25 15:55:28 INFO  LoginPage:57 - Login successful with mobileNumber: 9967891679
+  2024-01-25 15:55:28 INFO  LoginPage:29 - Start execution
+  2024-01-25 15:55:32 INFO  LoginPage:57 - Login successful with mobileNumber: 9507485745
+  
